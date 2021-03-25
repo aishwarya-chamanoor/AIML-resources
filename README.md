@@ -1,2 +1,4 @@
 # AIML-resources
-AIML Resources
+## AIML Resources
+
+Google Crash Course: https://developers.google.com/machine-learning/crash-course/ml-intro
