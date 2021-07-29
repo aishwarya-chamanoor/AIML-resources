@@ -7,6 +7,8 @@ SHALAA (stay home and learn AI): https://shala2020.github.io/
 
 CMU (Tom Mitchel): http://www.cs.cmu.edu/~ninamf/courses/601sp15/lectures.shtml
 
+[Cornell](https://www.cs.cornell.edu/courses/cs4780/2018fa/lectures/)
+
 
 ## AIML Papers
 [A Survey of Deep Learning for Scientific Discovery](https://arxiv.org/abs/2003.11755)
